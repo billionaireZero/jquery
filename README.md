@@ -1,4 +1,7 @@
 jquery
+
+http://blog.csdn.net/xiebaochun/article/details/36375481
+-----转载
 $(document).ready() 与window.onload的区别
 1.执行时间 
   window.onload必须等到页面内包括图片的所有元素加载完毕后才能执行。 
